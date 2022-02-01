@@ -68,8 +68,8 @@ td{
   padding: 10px;
 }
 tr:nth-child(even){
-  background-color: #ff4e00;
-  background-image: linear-gradient(315deg, #ff4e00 0%, #ec9f05 74%);
+  background-color: #f88a5a;
+  background-image: linear-gradient(315deg, #ff9b70 0%, #ec9f05 74%);
 
   color: white;
 }
